@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="container mx-auto px-6 text-center">
                 <p>© {new Date().getFullYear()} AquaFlow Plumbing. All Rights Reserved.</p>
                 <p className="text-sm text-gray-400 mt-2">
-                    Concept Project by Adnix Digital
+                    Concept Project by Vikas Saini
                 </p>
             </div>
         </footer>
